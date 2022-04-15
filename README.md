@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanksri
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Mysql
+- 👀 I’m interested in Data analytics/science
+- 🌱 I’m currently learning Pandas/numpy and many other python libraries
 - 📫 How to reach me shashanksrivastava19112000@gmail.com
 
 <!---
