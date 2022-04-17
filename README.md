@@ -1,9 +1,0 @@
-- 👋 Hi, I’m @shanksri
-- 👀 I’m interested in Data analytics/science
-- 🌱 I’m currently learning Pandas/numpy and many other python libraries
-- 📫 How to reach me shashanksrivastava19112000@gmail.com
-
-<!---
-shanksri/shanksri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
